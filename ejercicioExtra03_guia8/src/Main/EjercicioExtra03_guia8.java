@@ -44,7 +44,6 @@ public class EjercicioExtra03_guia8 {
         
         // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - //
         
-        sr.Mostrar();
     }
 
 }
